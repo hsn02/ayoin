@@ -5,4 +5,5 @@ int main(){
   cout<<"Hello World";
   cout<<"iyaa halo kamu";
   cout<<"dingin";
+  cout<<"oke";
 }
